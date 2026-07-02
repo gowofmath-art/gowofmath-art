@@ -1,4 +1,4 @@
-# Hello math！
+# Hello Math！
 
 # 🚀 Hi, I'm gowofmath-art | Algorithm & AI Engineer
 
@@ -10,13 +10,14 @@ I am an engineer driven by mathematical logic and algorithmic depth. Rather than
 
 ---
 
-## 🎯 核心專案與實作進程 (My Core Focus)
+##  核心專案與實作進程 (My Core Focus)
 
 目前正處於將數理思維轉化為工程落地的衝刺期，本帳號將專注沉澱以下內容：
 
-* 🧠 **手刻深度學習 (DL From Scratch)**：不依賴深度學習框架，純手刻卷積神經網路（CNN），直觀呈現矩陣微積分與反向傳播的底層脈絡。
-* 📈 **LeetCode 邏輯解題與思維檢討**：拒絕盲目刷題，專注於 Medium 至 Hard 題目的複雜度最佳化，並詳細記錄事後分析與邏輯推演。
-* 📊 **大數據核心演算法優化**：聚焦於資料特徵工程與模型演算法優化，用嚴謹的數學指標評估模型成效。
+*  **數學小程式 (Math Verification)**：各種數學理論的程式化實作，用程式碼驗證數理的必然性！
+*  **資料結構與經典演算法 (DSA Implementation)**：資料結構與排序演算法的底層實作、練習、優化與心得筆記。
+*  **手刻深度學習 (DL From Scratch)**：不依賴深度學習框架，純手刻卷積神經網路（CNN），直觀呈現矩陣微積分與反向傳播的底層脈絡。
+*  **LeetCode 邏輯解題與思維檢討**：拒絕盲目刷題，專注於 Medium 至 Hard 題目的複雜度最佳化，並詳細記錄事後分析與邏輯推演。
 
 ---
 
