@@ -23,7 +23,7 @@ I am an engineer driven by mathematical logic and algorithmic depth. Rather than
 
 ## 🛠️ 技術棧與思考工具 (Tech Stack & Toolkit)
 
-* **數理邏輯 (Mathematical Core):** 第一性原理思維 (First Principles)、矩陣微積分 (Matrix Calculus)、數值分析 (Numerical Analysis)
+* **數理邏輯 (Mathematical Core):** 第一性原理思維 (First Principles)、微積分 (Calculus)、矩陣 (Matrix)、數值分析 (Numerical Analysis)
 * **程式語言與工具 (Programming & Tools):** Python, NumPy, SQL, Linux, Git
 
 ---
